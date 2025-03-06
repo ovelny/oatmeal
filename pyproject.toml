@@ -1,0 +1,8 @@
+[project]
+name = "oatmeal"
+readme = "README.md"
+version = "0.1.0"
+dependencies = ["rich"]
+
+[project.scripts]
+qtcookies = "oatmeal:main"
